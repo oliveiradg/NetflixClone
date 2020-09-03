@@ -31,7 +31,7 @@ header .container{
 header .logo{
     margin-left: 5px;
     color: var(--vermelho);
-    font-family: Arial Bold, Helvetica, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
 }
 
@@ -49,7 +49,7 @@ header nav a:hover{
 
 .filme-principal{
     font-size: 16px;
-    background:  url(../img/background-friends.jpg);
+    background:  url(../img/legiao_DtKnQOhM0qFf.jpeg);
 
 
     height: 400px;
@@ -61,4 +61,13 @@ header nav a:hover{
     align-items: flex-start;
 
 
+}
+
+.filme-principal .descricao{
+margin-bottom: 40px;
+
+}
+
+.titulo{
+    font-size: 40px;
 }
